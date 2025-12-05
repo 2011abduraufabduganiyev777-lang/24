@@ -1,0 +1,30 @@
+.bola1{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.box1:hover{
+color: #FF6838;
+}
+.box2:hover{
+color: #FF6838;
+}
+.box3:hover{
+color: #FF6838;
+}
+.box4:hover{
+color: #FF6838;
+}
+
+button{
+    color: white;
+    background-color: #FF6838;
+}
+.ota1{
+    display: flex;
+
+}
+p{
+    color: gray;
+    
+}
